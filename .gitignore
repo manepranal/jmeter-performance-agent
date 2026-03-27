@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# JMeter output
+*.jtl
+*.bak.jmx
+reports/
+results/
+
+# Data files with credentials
+data/
+
+# Environment
+.env
+*.env
+
+# macOS
+.DS_Store
